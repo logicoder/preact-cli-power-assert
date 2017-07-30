@@ -11,7 +11,7 @@ Plugin for [⚛️ preact-cli](https://github.com/developit/preact-cli) to use [
 Install it with npm:
 
 ```shell
-npm i preact-cli-power-assert
+npm i -D preact-cli-power-assert
 ```
 
 or with yarn:

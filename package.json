@@ -1,7 +1,7 @@
 {
   "name": "preact-cli-power-assert",
   "description": "Plugin for preact-cli to use power-assert assertions",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "src/index.js",
   "author": {
     "name": "Marco Del Tongo",
@@ -13,7 +13,6 @@
   "license": "MIT",
   "keywords": ["preact", "preact-cli", "assert", "power-assert", "plugin"],
   "scripts": {
-    "publish": "publish-please",
     "lint": "eslint src/"
   },
   "devDependencies": {
@@ -21,8 +20,7 @@
     "eslint-config-prettier": "^2.3.0",
     "eslint-plugin-prettier": "^2.1.2",
     "prettier-eslint-cli": "^4.1.1",
-    "prettier-package-json": "^1.3.2",
-    "publish-please": "^2.3.1"
+    "prettier-package-json": "^1.3.2"
   },
   "peerDependencies": {
     "preact-cli": "^1.4.1"
