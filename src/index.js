@@ -1,4 +1,4 @@
-const preactCliPowerAssert = (config, env) => {
+const preactCliPowerAssert = config => {
   if (!config) {
     throw Error("You need to pass the webpack config to preactCliPowerAssert");
   }
